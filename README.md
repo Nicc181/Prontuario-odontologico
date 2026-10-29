@@ -1,2 +1,2 @@
 ﻿# Prontuario-odontologico
-Acesse o programa aatraves da Release
+Acesse o programa através da Release
